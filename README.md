@@ -1,5 +1,8 @@
 # Exercise 2: Welcome Message with IF Condition and Switch Case
 
+#### Malar Mariam S
+#### 212223230118
+
 ## Part A
 
 ### Aim

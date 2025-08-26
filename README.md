@@ -51,8 +51,8 @@ To display a custom welcome message using **Switch Case** in UiPath, based on us
 
    ### Output
 
-   <img width="1519" height="839" alt="image" src="https://github.com/user-attachments/assets/86337171-a80e-45c6-9339-274b576ec1e0" />
-   <img width="1521" height="846" alt="image" src="https://github.com/user-attachments/assets/edc4a77b-2f43-428b-a5d9-b7ad160aa11e" />
+   <img width="1512" height="839" alt="image" src="https://github.com/user-attachments/assets/86337171-a80e-45c6-9339-274b576ec1e0" />
+   <img width="1512" height="846" alt="image" src="https://github.com/user-attachments/assets/edc4a77b-2f43-428b-a5d9-b7ad160aa11e" />
 <img width="1512" height="843" alt="image" src="https://github.com/user-attachments/assets/79955666-f053-473d-b086-4a3215f6c1c7" />
 <img width="1518" height="851" alt="image" src="https://github.com/user-attachments/assets/1b22c7ba-1586-42ec-bb29-495ec22c519f" />
 <img width="1510" height="829" alt="image" src="https://github.com/user-attachments/assets/1543002b-b657-4f9c-bae0-2c04c4926d0c" />
